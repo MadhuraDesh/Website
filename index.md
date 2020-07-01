@@ -1,4 +1,5 @@
 <html>
+     <head>
 <style>
       btn-sm {
     padding: 3px 10px;
@@ -34,6 +35,7 @@
     appearance: none;
 }
       </style>
+           </head>
       <bdoy>
 <H1>Readons</H1>
 
