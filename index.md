@@ -1,3 +1,4 @@
+<html>
 <style>
       btn-sm {
     padding: 3px 10px;
@@ -33,6 +34,7 @@
     appearance: none;
 }
       </style>
+      <bdoy>
 <H1>Readons</H1>
 
 <H3>Reccomendations</H3>
@@ -54,3 +56,5 @@ Newsletter<input type="text"/>
 <button type="submit" class="btn btn-blue btn-sm">
       Send
     </button>
+    </body>
+</html>
