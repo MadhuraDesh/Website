@@ -2,4 +2,4 @@
 
 <H3>Reccomendations</H3>
 Newsletter<input type="text"/>
-<input type="submit"/>
+<input type="submit">Subscribe</input>
